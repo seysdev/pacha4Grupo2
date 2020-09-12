@@ -10,7 +10,7 @@ El proyecto se trabajara de manera colaborativa a traves de herramientas como TR
 Los criterios de aceptacion se basaran en el diseño UI.
 
 ## Tecnologias a usar
-- __[Vue](http://sass-lang.com/):__ for CSS
+- __[Scss](http://sass-lang.com/):__ for CSS
 - __[ES6](http://es6-features.org/)/[Babel](https://babeljs.io/):__ for JS
 - __[Vue.js 2](https://vuejs.org/)__ as scalable framework
 - __[Vue-router](https://router.vuejs.org/en/)__ as router
